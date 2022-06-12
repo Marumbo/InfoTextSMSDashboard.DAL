@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InfoTextSMSDashboard.DAL", "InfoTextSMSDashboard.DAL.csproj", "{91760E3B-9245-4FA4-AAE9-0AA1C0122828}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91760E3B-9245-4FA4-AAE9-0AA1C0122828}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91760E3B-9245-4FA4-AAE9-0AA1C0122828}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91760E3B-9245-4FA4-AAE9-0AA1C0122828}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91760E3B-9245-4FA4-AAE9-0AA1C0122828}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5120D225-25BD-43B8-BEDD-98E968532588}
+	EndGlobalSection
+EndGlobal
